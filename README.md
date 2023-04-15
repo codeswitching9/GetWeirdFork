@@ -1,5 +1,8 @@
 # Get Weird - a supernatural sighting web application
 
+## Update
+This is the capstone project that I completed at the end of my LaunchCode program. Additional project files and changes from 4/14/2023 onward are my own.
+
 ## Description
 Are you someone who loves watching horror movies?
 
